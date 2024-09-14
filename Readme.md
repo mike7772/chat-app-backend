@@ -7,7 +7,7 @@
 
    ```bash
    git clone https://github.com/mike7772/chat-app-backend.git
-   cd chat-app-backend/backend
+   cd chat-app-backend
    ```
 
 2. **Create a Virtual Environment**
